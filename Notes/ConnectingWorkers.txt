@@ -1,0 +1,55 @@
+Doubt: Negotiation Chat window???
+Admin
+	*1]Approve/Reject Worker
+	*2]Complaint Section
+	*3]Pairing
+	 4]Stats	
+
+*Client
+	 Registration/Login
+	1] Verify Phone using otp
+	2] Phone,Name
+
+	Profile
+	1]Name, Email
+
+	Posting Page
+	1] Images,Title, Description, Estimated Budget, Locality 
+
+	Responses
+		1]Accept/Reject
+		2]Sort By - Skills,Experience,Rating,Price
+
+	Close the Post after Request is accepted/Rejected!
+	If Accepted and Job Done, can rate out of 5. 
+	
+
+*Worker
+	 Registration/Login
+	1] Verify Phone using otp
+	2] Verify Aadhar
+	3] Phone,Name,Aadhar
+	
+	Profile
+	1]Name, Email, Skills, Experience
+
+	Total Earnings
+
+	Postings Page
+	Filters - Location, Skills, Range of Amount
+
+	Bid Page
+	1] Expected Amount
+	2] Additional Message
+	
+	
+	Subscription Page
+		Plan: 99Rs
+
+	Notification Section
+	1] Accepted/Rejected
+	
+
+
+
+
